@@ -45,6 +45,9 @@ app.Animation = (function () {
         t.set(pin4, {transformOrigin: "50% 100%"});
         t.set(pin5, {transformOrigin: "50% 100%"});
 
+        t.set(txt1, {transformOrigin: "50% 5%"});
+        t.set(txt2, {transformOrigin: "50% 30%"});
+
         buttonExit.addEventListener('mouseover', function () {
             t.to(cta_bg, .25, {backgroundColor: "rgba(211, 78, 255, 1)"});
 
@@ -113,12 +116,12 @@ app.Animation = (function () {
 
 
         tltxt.to(txt1, .25, {opacity: 1}, "+=.75")
-            .fromTo(txt1, .25, {y: "-=20", ease: Sine.easeIn}, {y: "+=25", ease: Sine.easeOut}, "-=.25")
-            .to(txt1, .15, {y: "-=5", ease: Sine.easeInOut})
+            .fromTo(txt1, .25, {y: "-=20", ease: Sine.easeIn}, {scaleX:"+=.05", scaleY:"-=.1", y: "+=25", ease: Sine.easeOut}, "-=.25")
+            .to(txt1, .15, {scaleX:"-=.05", scaleY:"+=.1", y: "-=5", ease: Sine.easeIn}, "+=.1")
 
             .to(txt2, .25, {opacity: 1}, "+=1.5")
-            .fromTo(txt2, .25, {y: "-=20", ease: Sine.easeIn}, {y: "+=25", ease: Sine.easeOut}, "-=.25")
-            .to(txt2, .15, {y: "-=5", ease: Sine.easeInOut})
+            .fromTo(txt2, .25, {y: "-=20", ease: Sine.easeIn}, {scaleX:"+=.05", scaleY:"-=.1", y: "+=25", ease: Sine.easeOut}, "-=.25")
+            .to(txt2, .15, {scaleX:"-=.05", scaleY:"+=.1", y: "-=5", ease: Sine.easeIn}, "+=.1")
 
             .to(txt3, .25, {opacity: 1}, "+=2");
 
