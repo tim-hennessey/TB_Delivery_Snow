@@ -80,7 +80,7 @@ app.Animation = (function () {
             .fromTo(txt1, .25, {y: "-=20"}, {y: "+=23", ease: Sine.easeOut}, "-=.25")
             .to(txt1, .1, {y: "-=3", ease: Sine.easeInOut})
 
-            .to(txt2, .25, {opacity: 1}, "+=1.25")
+            .to(txt2, .25, {opacity: 1}, "+=.75")
             .fromTo(txt2, .25, {y: "-=20"}, {y: "+=23", ease: Sine.easeOut}, "-=.25")
             .to(txt2, .1, {y: "-=3", ease: Sine.easeInOut})
 

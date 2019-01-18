@@ -4,7 +4,11 @@
     <list default="true" id="7f0a21b4-50fb-44a7-a6c2-881fa938f9bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/160x600/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/160x600/scripts/Animation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x50/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x50/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x600/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x600/scripts/Animation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/320x50/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/320x50/scripts/Animation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/728x90/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/728x90/scripts/Animation.js" />
     </list>
     <ignored path="TB_Delivery_Snow.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,18 +35,58 @@
       <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/300x600/scripts/Animation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="98" column="65" selection-start-line="98" selection-start-column="65" selection-end-line="98" selection-end-column="65" />
+            <state relative-caret-position="390">
+              <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/320x50/scripts/Animation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="78" column="50" selection-start-line="78" selection-start-column="50" selection-end-line="78" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Animation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/728x90/scripts/Animation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/160x600/scripts/Animation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="98" column="65" selection-start-line="98" selection-start-column="65" selection-end-line="98" selection-end-column="65" />
+            <state relative-caret-position="405">
+              <caret line="84" column="59" selection-start-line="84" selection-start-column="59" selection-end-line="84" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/300x50/scripts/Animation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,25 +114,26 @@
         <option value="$PROJECT_DIR$/app/300x250_V5/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x250_V6/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x250_V6/scripts/Animation.js" />
-        <option value="$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x600/styles/_mixins.scss" />
         <option value="$PROJECT_DIR$/app/300x600/index.html" />
         <option value="$PROJECT_DIR$/app/160x600/styles/_mixins.scss" />
         <option value="$PROJECT_DIR$/app/160x600/index.html" />
         <option value="$PROJECT_DIR$/app/160x600/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/728x90/styles/_mixins.scss" />
-        <option value="$PROJECT_DIR$/app/728x90/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/728x90/index.html" />
         <option value="$PROJECT_DIR$/app/728x90/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/320x50/styles/_mixins.scss" />
         <option value="$PROJECT_DIR$/app/320x50/index.html" />
         <option value="$PROJECT_DIR$/app/320x50/styles/_layout.scss" />
-        <option value="$PROJECT_DIR$/app/320x50/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x50/styles/_mixins.scss" />
         <option value="$PROJECT_DIR$/app/300x50/styles/_layout.scss" />
         <option value="$PROJECT_DIR$/app/300x600/styles/_layout.scss" />
-        <option value="$PROJECT_DIR$/app/300x600/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/160x600/scripts/Animation.js" />
+        <option value="$PROJECT_DIR$/app/300x50/scripts/Animation.js" />
+        <option value="$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js" />
+        <option value="$PROJECT_DIR$/app/300x600/scripts/Animation.js" />
+        <option value="$PROJECT_DIR$/app/320x50/scripts/Animation.js" />
+        <option value="$PROJECT_DIR$/app/728x90/scripts/Animation.js" />
       </list>
     </option>
   </component>
@@ -104,8 +149,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="997" />
-    <option name="y" value="63" />
+    <option name="x" value="1250" />
+    <option name="y" value="120" />
     <option name="width" value="1095" />
     <option name="height" value="1213" />
   </component>
@@ -134,7 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -166,22 +211,8 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TB_Delivery_Snow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TB_Delivery_Snow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="300x600" />
+              <option name="myItemId" value="728x90" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -199,7 +230,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="300x600" />
+              <option name="myItemId" value="728x90" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -218,38 +249,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="160x600" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TB_Delivery_Snow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TB_Delivery_Snow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="160x600" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,7 +301,7 @@
     <option name="totallyTimeSpent" value="22137000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="997" y="63" width="1095" height="1213" extended-state="0" />
+    <frame x="1250" y="120" width="1095" height="1213" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20484172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -502,13 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="138" column="57" selection-start-line="138" selection-start-column="57" selection-end-line="138" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/300x600/styles/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -565,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/728x90/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/320x50/styles/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -590,13 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/320x50/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -621,13 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x50/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/300x600/styles/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -635,18 +612,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x600/scripts/Animation.js">
+    <entry file="file://$PROJECT_DIR$/app/160x600/scripts/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="98" column="65" selection-start-line="98" selection-start-column="65" selection-end-line="98" selection-end-column="65" />
+        <state relative-caret-position="405">
+          <caret line="84" column="59" selection-start-line="84" selection-start-column="59" selection-end-line="84" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/160x600/scripts/Animation.js">
+    <entry file="file://$PROJECT_DIR$/app/300x50/scripts/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="98" column="65" selection-start-line="98" selection-start-column="65" selection-end-line="98" selection-end-column="65" />
+        <state relative-caret-position="375">
+          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x600/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/320x50/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="78" column="50" selection-start-line="78" selection-start-column="50" selection-end-line="78" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/728x90/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
           <folding />
         </state>
       </provider>
