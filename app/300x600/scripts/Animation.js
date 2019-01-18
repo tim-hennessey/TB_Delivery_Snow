@@ -96,7 +96,7 @@ app.Animation = (function () {
 
         t.to(car_upper, .1, {y: "+=.5", ease: Linear.easeNone, repeat: -1, yoyo:true});
 
-        cartl.from(car, 1, {x: "+=150", ease: Sine.easeOut}, "+=5.5")
+        cartl.from(car, 1, {x: "+=150", ease: Sine.easeOut}, "+=5")
             .from(car_upper, .5, {rotation:-3, ease: Sine.easeOut}, "-=.5")
             .to(car_upper, .2, {rotation:+2, ease: Sine.easeInOut, repeat: 1, yoyo:true})
             .to(car, 1, {x: "-=250", ease: Sine.easeIn}, "+=3")
