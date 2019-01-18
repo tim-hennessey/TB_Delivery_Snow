@@ -26,85 +26,85 @@ body {
     }
 
     #city {
-        left: 0;
+        right: 0;
         bottom: 0;
         position: absolute;
     }
 
-    #car {
-        left: 155px;
-        bottom: 76px;
-        width:74px;
-        height:45px;
-        position: absolute;
-
-        #car_upper {
-            position: absolute;
-        }
-
-        #car_lower {
-            position: absolute;
-        }
-    }
+    //#car {
+    //    left: 155px;
+    //    bottom: 78px;
+    //    width:74px;
+    //    height:45px;
+    //    position: absolute;
+    //
+    //    #car_upper {
+    //        position: absolute;
+    //    }
+    //
+    //    #car_lower {
+    //        position: absolute;
+    //    }
+    //}
 
     #txt1 {
-        left: 0;
+        left: 47px;
         top: 0;
         opacity:0;
-        clip: rect(0px, 300px, 70px, 0px);
+        clip: rect(0px, 64px, 26px, 0px);
         transform: translate3d(0, 0, 0.1px);
         position: absolute;
     }
 
     #txt2 {
-        left: 0;
+        left: 47px;
         top: 0;
         opacity:0;
-        clip: rect(70px, 300px, 110px, 0px);
+        clip: rect(0px, 211px, 26px, 64px);
         transform: translate3d(0, 0, 0.1px);
         position: absolute;
     }
 
     #txt3 {
-        left: 0;
+        left: 47px;
         top: 0;
         opacity:0;
-        clip: rect(110px, 300px, 149px, 0px);
+        clip: rect(26px, 211px, 41px, 0px);
         transform: translate3d(0, 0, 0.1px);
         position: absolute;
     }
 
     #pin {
-        left: 101px;
-        bottom: 201px;
+        left: 6px;
+        bottom: 6px;
         transform: translate3d(0, 0, 0.1px);
         position: absolute;
     }
 
 
 
-    #cta {
-        left: 45px;
-        top: 173px;
-        width: 212px;
-        height: 57px;
-        opacity:0;
-        position: absolute;
-
-        #cta_img {
-            z-index: 2;
-            transform: translate3d(0, 0, 0.1px);
-            position: absolute;
-        }
-        #cta_bg {
-            left: 10px;
-            top: 20px;
-            width: 185px;
-            height: 30px;
-            background: #000b38;
-            position: absolute;
-        }
-    }
+    //#cta {
+    //    right: 67px;
+    //    top: 9px;
+    //    width: 172px;
+    //    height: 49px;
+    //    opacity:0;
+    //    position: absolute;
+    //
+    //    #cta_img {
+    //        z-index: 2;
+    //        transform: translate3d(0, 0, 0.1px);
+    //        position: absolute;
+    //    }
+    //    #cta_bg {
+    //        left: 10px;
+    //        top: 20px;
+    //        width: 155px;
+    //        height: 20px;
+    //        background: #000b38;
+    //        position: absolute;
+    //    }
+    //}
 
     #button-exit {
         background-color: rgba(255, 255, 255, 0);

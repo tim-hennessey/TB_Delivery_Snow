@@ -32,10 +32,10 @@ body {
     }
 
     #car {
-        left: 155px;
-        bottom: 76px;
-        width:74px;
-        height:45px;
+        left: 78px;
+        bottom: 130px;
+        width:55px;
+        height:36px;
         position: absolute;
 
         #car_upper {
@@ -51,7 +51,7 @@ body {
         left: 0;
         top: 0;
         opacity:0;
-        clip: rect(0px, 300px, 70px, 0px);
+        clip: rect(0px, 160px, 75px, 0px);
         transform: translate3d(0, 0, 0.1px);
         position: absolute;
     }
@@ -60,7 +60,7 @@ body {
         left: 0;
         top: 0;
         opacity:0;
-        clip: rect(70px, 300px, 110px, 0px);
+        clip: rect(75px, 160px, 152px, 0px);
         transform: translate3d(0, 0, 0.1px);
         position: absolute;
     }
@@ -69,14 +69,14 @@ body {
         left: 0;
         top: 0;
         opacity:0;
-        clip: rect(110px, 300px, 149px, 0px);
+        clip: rect(152px, 160px, 207px, 0px);
         transform: translate3d(0, 0, 0.1px);
         position: absolute;
     }
 
     #pin {
-        left: 101px;
-        bottom: 201px;
+        left: 48px;
+        bottom: 205px;
         transform: translate3d(0, 0, 0.1px);
         position: absolute;
     }
@@ -84,10 +84,10 @@ body {
 
 
     #cta {
-        left: 45px;
-        top: 173px;
-        width: 212px;
-        height: 57px;
+        left: 22px;
+        top: 233px;
+        width: 115px;
+        height: 32px;
         opacity:0;
         position: absolute;
 
@@ -98,9 +98,9 @@ body {
         }
         #cta_bg {
             left: 10px;
-            top: 20px;
-            width: 185px;
-            height: 30px;
+            top: 10px;
+            width: 95px;
+            height: 20px;
             background: #000b38;
             position: absolute;
         }
