@@ -2,13 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f0a21b4-50fb-44a7-a6c2-881fa938f9bb" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/images/city.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/images/cta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/images/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/images/txt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/scripts/Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/scripts/TrackingNone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/styles/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/styles/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/styles/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/styles/_sprites.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/styles/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/images/city.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/images/cta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/images/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/images/txt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/scripts/Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/scripts/TrackingNone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/styles/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/styles/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/styles/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/styles/_sprites.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V2/styles/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/images/city.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/images/cta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/images/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/images/txt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/scripts/Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/scripts/TrackingNone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/styles/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/styles/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/styles/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/styles/_sprites.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V3/styles/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/images/city.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/images/cta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/images/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/images/txt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/scripts/Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/scripts/TrackingNone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/styles/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/styles/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/styles/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/styles/_sprites.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V4/styles/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/images/city.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/images/cta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/images/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/images/txt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/scripts/Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/scripts/TrackingNone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/styles/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/styles/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/styles/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/styles/_sprites.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V5/styles/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/images/city.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/images/cta.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/images/pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/images/txt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/scripts/Animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/scripts/TrackingNone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/styles/_fonts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/styles/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/styles/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/styles/_sprites.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250_V6/styles/main.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/160x600/images/txt.png" afterPath="$PROJECT_DIR$/app/160x600/images/txt.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/160x600/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/160x600/scripts/Animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x50/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x50/scripts/Animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x600/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x600/scripts/Animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/320x50/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/320x50/scripts/Animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/728x90/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/728x90/scripts/Animation.js" />
     </list>
     <ignored path="TB_Delivery_Snow.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,61 +105,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x600/scripts/Animation.js">
+      <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/320x50/styles/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/320x50/scripts/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="78" column="50" selection-start-line="78" selection-start-column="50" selection-end-line="78" selection-end-column="50" />
+            <state relative-caret-position="765">
+              <caret line="81" column="5" selection-start-line="76" selection-start-column="4" selection-end-line="81" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Animation.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/728x90/scripts/Animation.js">
+        <entry file="file://$PROJECT_DIR$/app/320x50/scripts/Animation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/160x600/scripts/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="84" column="59" selection-start-line="84" selection-start-column="59" selection-end-line="84" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x50/scripts/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/300x250_V7/scripts/Animation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="78" column="50" selection-start-line="78" selection-start-column="50" selection-end-line="78" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -149,8 +182,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1250" />
-    <option name="y" value="120" />
+    <option name="x" value="1303" />
+    <option name="y" value="214" />
     <option name="width" value="1095" />
     <option name="height" value="1213" />
   </component>
@@ -211,8 +244,22 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="728x90" />
+              <option name="myItemId" value="TB_Delivery_Snow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TB_Delivery_Snow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="320x50" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -230,25 +277,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="728x90" />
+              <option name="myItemId" value="320x50" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TB_Delivery_Snow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TB_Delivery_Snow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="320x50" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TB_Delivery_Snow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TB_Delivery_Snow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,7 +313,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TB_Delivery_Rain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editor.config.accepted" value="true" />
@@ -301,7 +356,7 @@
     <option name="totallyTimeSpent" value="22137000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1250" y="120" width="1095" height="1213" extended-state="0" />
+    <frame x="1303" y="214" width="1095" height="1213" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20484172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -367,76 +422,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V3/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V2/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="5" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250_V3/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250_V2/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" />
     <entry file="file://$PROJECT_DIR$/app/300x250 2/scripts/Animation.js" />
     <entry file="file://$PROJECT_DIR$/app/300x250 2/index.html" />
@@ -444,69 +439,15 @@
     <entry file="file://$PROJECT_DIR$/app/300x250_2/index.html" />
     <entry file="file://$PROJECT_DIR$/app/300x250_2/styles/_layout.scss" />
     <entry file="file://$PROJECT_DIR$/app/300x250_2/scripts/Animation.js" />
-    <entry file="file://$PROJECT_DIR$/app/300x250/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="122" column="48" selection-start-line="122" selection-start-column="48" selection-end-line="122" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V2/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V3/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="124" column="84" selection-start-line="124" selection-start-column="84" selection-end-line="124" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V4/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V5/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V6/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="128" column="45" selection-start-line="128" selection-start-column="45" selection-end-line="128" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250_V6/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x250/index.html" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
+    <entry file="file://$PROJECT_DIR$/app/300x250_V2/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250_V3/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250_V4/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250_V5/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250_V6/scripts/Animation.js" />
+    <entry file="file://$PROJECT_DIR$/app/300x250_V6/styles/_layout.scss" />
     <entry file="file://$PROJECT_DIR$/app/300x600/styles/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -577,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/320x50/styles/_layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/300x50/styles/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -612,6 +546,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/300x600/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/728x90/scripts/Animation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/160x600/scripts/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -636,26 +586,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x600/scripts/Animation.js">
+    <entry file="file://$PROJECT_DIR$/app/320x50/styles/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
+        <state relative-caret-position="765">
+          <caret line="81" column="5" selection-start-line="76" selection-start-column="4" selection-end-line="81" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/320x50/scripts/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
+        <state relative-caret-position="450">
           <caret line="78" column="50" selection-start-line="78" selection-start-column="50" selection-end-line="78" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/728x90/scripts/Animation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="82" column="47" selection-start-line="82" selection-start-column="47" selection-end-line="82" selection-end-column="47" />
           <folding />
         </state>
       </provider>
